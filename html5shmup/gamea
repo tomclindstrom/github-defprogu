@@ -1,0 +1,17 @@
+BasicGame.Game = function(game) {
+
+
+
+
+};
+
+
+BasicGame.Game.prototype = {
+
+
+
+
+
+
+
+};
